@@ -7,6 +7,7 @@ import Board from "./Board";
 function App() {
   return (
     <>
+    <p>The Header</p>
       <Board />
     </>
   );
